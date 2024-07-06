@@ -1,0 +1,3 @@
+[submodule "Chess_NN"]
+	path = Chess_NN
+	url = git@github.com:DanyloOS/Chess_NN.git
